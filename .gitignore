@@ -1,0 +1,9 @@
+*.mbox
+node_modules
+package-lock.json
+package.json
+takeout*
+newmiscreading.org
+mergedmiscreading.org
+accepted.txt
+rejected.txt
